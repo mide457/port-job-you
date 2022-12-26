@@ -130,7 +130,7 @@ h2, h3{
     }
 
     section #project-container .project{
-        width: 500px;
+        width: 250px;
     }
     section #project-container .project img{
         width: 50%;
@@ -179,8 +179,8 @@ h2, h3{
         width: 100%;
     }
     #skill-container .skill-card{
-        width: 500px;
-        height: 300px;
+        width: 250px;
+        height: 380px;
         font-size: 1.2rem;
     }
     #skill-container .skill-card p{
